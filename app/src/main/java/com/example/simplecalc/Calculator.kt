@@ -7,7 +7,7 @@ class Calculator {
     /**
      * Addition operation
      */
-    fun add(firstOperand: Double ,secondOperand: Double): Double {
+    fun add(firstOperand: Double, secondOperand: Double): Double {
         return firstOperand + secondOperand
     }
 
